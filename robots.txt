@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tianyexiangping-dot.github.io/sitemap.xml
